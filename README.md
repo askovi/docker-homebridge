@@ -69,10 +69,10 @@ The parameters are split into two halves, separated by a colon, the left hand si
 
 ##### *Homebridge UI Options*:
 
-This is the only supported method of running [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) on oznu/homebridge.
+This is the only supported method of running [homebridge-config-ui-x-hoobs](https://github.com/oznu/homebridge-config-ui-x-hoobs) on oznu/homebridge.
 
-* `-e HOMEBRIDGE_CONFIG_UI=1` - Enable and configure [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) which allows you to manage and configure Homebridge from your web browser.
-* `-e HOMEBRIDGE_CONFIG_UI_PORT=8080` - The port to run [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) on. Defaults to port 8080.
+* `-e HOMEBRIDGE_CONFIG_UI=1` - Enable and configure [homebridge-config-ui-x-hoobs](https://github.com/oznu/homebridge-config-ui-x-hoobs) which allows you to manage and configure Homebridge from your web browser.
+* `-e HOMEBRIDGE_CONFIG_UI_PORT=8080` - The port to run [homebridge-config-ui-x-hoobs](https://github.com/oznu/homebridge-config-ui-x-hoobs) on. Defaults to port 8080.
 
 ### User / Group Identifiers
 
