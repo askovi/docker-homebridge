@@ -6,7 +6,7 @@ else
   _HOMEBRIDGE_PATH=/usr/local/lib/node_modules/homebridge
 fi 
 
-s6-setuidgid root homebridge-config-ui-x-hoobs \
+s6-setuidgid root homebridge-config-ui-x \
   -U /homebridge \
   -P /homebridge/node_modules \
   -H $_HOMEBRIDGE_PATH \
