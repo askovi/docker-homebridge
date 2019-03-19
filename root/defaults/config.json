@@ -1,12 +1,12 @@
 {
     "bridge": {
-        "name": "Homebridge",
-        "username": "CC:22:3D:E3:CE:30",
+        "name": "HOOBS Smart Box",
+        "username": "CC:22:3D:E3:CE:31",
         "port": 51826,
-        "pin": "031-45-154"
+        "pin": "131-45-240"
     },
 
-    "description": "This is an example configuration file. You can use this as a template for creating your own configuration file containing devices you actually own.",
+    "description": "This is your HOOBS configuration file. You can use this to configure devices you own.",
 
     "accessories": [
     ],
